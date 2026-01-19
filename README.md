@@ -8,7 +8,7 @@ it’s about **guiding the magic**, shaping it, and polishing it into something 
 ---
 
 ## 🌐 Live Experience
-👉 https://vismay2005.github.io/
+👉 https://vismay2005.github.io/surprise/
 
 *(Best experienced on desktop or mobile with interaction enabled)*
 
